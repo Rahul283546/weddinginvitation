@@ -1166,7 +1166,7 @@ a.ui-button:active, .ui-button:active,
 }
 
 .preloader {
-  background-color: #B5A2BD;
+  background-color: #36403f;
   width: 100%;
   height: 100%;
   position: fixed;
@@ -9355,8 +9355,8 @@ a.ui-button:active, .ui-button:active,
 .wpo-blog-section .wpo-blog-item:hover .wpo-blog-img img,
 .wpo-blog-section-s2 .wpo-blog-item:hover .wpo-blog-img img,
 .wpo-blog-section-s3 .wpo-blog-item:hover .wpo-blog-img img {
-  -webkit-transform: scale(1.2) rotate(5deg);
-          transform: scale(1.2) rotate(5deg);
+  /* -webkit-transform: scale(1.2) rotate(5deg);
+          transform: scale(1.2) rotate(5deg); */
 }
 
 .wpo-blog-section .wpo-blog-item .wpo-blog-content,
@@ -9443,7 +9443,7 @@ a.ui-button:active, .ui-button:active,
 .wpo-blog-section .wpo-blog-item .wpo-blog-content h2,
 .wpo-blog-section-s2 .wpo-blog-item .wpo-blog-content h2,
 .wpo-blog-section-s3 .wpo-blog-item .wpo-blog-content h2 {
-  font-size: 30px;
+  font-size: 25px;
   font-style: normal;
   font-weight: 500;
   line-height: 45px;
